@@ -18,9 +18,10 @@
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
 
-## Este repo trata sobre: Render Props en React.
+## Este repo trata sobre: Render Props de manera básica en React.
 
 - Esta aplicación está creada con Create React App.
+- Clonarla: git clone https://github.com/julioavantt/teacher_react_render_props_basic.git
 - Para iniciarla, luego de clonar, ejecute npm i para instalar dependencias y luego mpm start para arrancar el servidor de desarrollo.
 
 <br>
